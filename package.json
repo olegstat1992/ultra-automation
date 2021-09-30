@@ -1,0 +1,33 @@
+{
+  "name": "ultra-automation",
+  "version": "1.0.0",
+  "description": "ultra-automation",
+  "main": "index.js",
+  "scripts": {
+    "lint": "node_modules/.bin/eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olegstat1992/ultra-automation.git"
+  },
+  "keywords": [
+    "playwright"
+  ],
+  "author": "Oleg Statnii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olegstat1992/ultra-automation/issues"
+  },
+  "homepage": "https://github.com/olegstat1992/ultra-automation#readme",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.15.4",
+    "@playwright/test": "^1.14.1",
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "xunit-viewer": "^7.1.5"
+  }
+}
