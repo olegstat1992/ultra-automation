@@ -110,4 +110,4 @@ dist
 test-results/
 
 # Newman reports
-api/reports
+api/reports/
